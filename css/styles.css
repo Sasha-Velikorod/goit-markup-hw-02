@@ -35,8 +35,8 @@ ul {
   text-decoration: none;
 }
 .menu:hover,
-.menu:active,
-.menu:focus {
+.menu:focus,
+.menu:active {
   color: #404bbf;
 }
 .address {
@@ -49,7 +49,8 @@ ul {
   color: #434455;
   text-decoration: none;
 }
-.contacts:hover {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 .section-one {
